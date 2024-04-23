@@ -1,0 +1,15 @@
+# .ipynb_checkpoints
+**/*.ipynb_checkpoints/
+.Rhistory
+
+# google news vector
+GoogleNews-vectors-negative300.bin.gz
+
+# congress tweets data
+116th Congressional Tweets and Demographics.csv
+
+# add file names with appropriate folder references here
+
+.DS_Store
+.Rproj.user
+*.Rproj
